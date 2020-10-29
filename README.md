@@ -141,3 +141,4 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
 
 - [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 # 006-kittens-carousel-static-web-s3-cf
+# durmusturk-006-kittens-carousel-static-web-s3-cf
